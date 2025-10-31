@@ -1,0 +1,35 @@
+# Core Python dependencies
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.5.0
+
+# Deep learning and NLP
+torch>=2.3.0
+transformers>=4.37.0
+sentence-transformers>=2.6.0
+
+# Vector database
+faiss-cpu>=1.8.0
+
+# Streamlit app
+streamlit>=1.34.0
+
+# Utility and parsing
+tqdm
+nltk
+regex
+beautifulsoup4
+lxml
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# Optional: for JSON, YAML, etc.
+pyyaml
+
+# To save & load models easily
+joblib
+
+# For interactive notebooks
+jupyter
