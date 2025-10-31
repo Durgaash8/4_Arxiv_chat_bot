@@ -80,7 +80,7 @@ Data Folder	Drive Link Here
 - Data: [Drive link](https://drive.google.com/drive/folders/1sL9FlDsiHtkdahLMYR0pXuu0TgqMMFbG?usp=drive_link)
 
  # Installation
-git clone https://github.com/YOUR_USERNAME/arxiv_chatbot.git
+git clone https://github.com/Durgaash/4_Arxiv_chat_bot.git
 cd arxiv_chatbot
 pip install -r requirements.txt
 
@@ -104,5 +104,6 @@ All training, embedding, and evaluation are documented in Jupyter Notebooks:
 Name: Durga Prasad
 Internship Program: AI/ML Development – NullClass
 Task: Task 4 (ArXiv Research Chatbot)
+
 
 
